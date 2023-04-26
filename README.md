@@ -2,6 +2,4 @@
 
 ## Level 1
 
-** Usando if, else
-** Switch, case
-** funções basicas
+** Usando if, else, Switch, case e funções basicas
