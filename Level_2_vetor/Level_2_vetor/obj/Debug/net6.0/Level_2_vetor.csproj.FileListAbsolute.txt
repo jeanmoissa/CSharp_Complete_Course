@@ -1,0 +1,15 @@
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\bin\Debug\net6.0\Level_2_vetor.exe
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\bin\Debug\net6.0\Level_2_vetor.deps.json
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\bin\Debug\net6.0\Level_2_vetor.runtimeconfig.json
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\bin\Debug\net6.0\Level_2_vetor.dll
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\bin\Debug\net6.0\Level_2_vetor.pdb
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\obj\Debug\net6.0\Level_2_vetor.csproj.AssemblyReference.cache
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\obj\Debug\net6.0\Level_2_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\obj\Debug\net6.0\Level_2_vetor.AssemblyInfoInputs.cache
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\obj\Debug\net6.0\Level_2_vetor.AssemblyInfo.cs
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\obj\Debug\net6.0\Level_2_vetor.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\obj\Debug\net6.0\Level_2_vetor.dll
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\obj\Debug\net6.0\refint\Level_2_vetor.dll
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\obj\Debug\net6.0\Level_2_vetor.pdb
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\obj\Debug\net6.0\Level_2_vetor.genruntimeconfig.cache
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_vetor\Level_2_vetor\obj\Debug\net6.0\ref\Level_2_vetor.dll

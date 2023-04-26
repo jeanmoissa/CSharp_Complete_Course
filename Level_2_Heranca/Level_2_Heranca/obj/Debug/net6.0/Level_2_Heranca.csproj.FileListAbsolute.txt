@@ -1,0 +1,15 @@
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\bin\Debug\net6.0\Level_2_Heranca.exe
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\bin\Debug\net6.0\Level_2_Heranca.deps.json
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\bin\Debug\net6.0\Level_2_Heranca.runtimeconfig.json
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\bin\Debug\net6.0\Level_2_Heranca.dll
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\bin\Debug\net6.0\Level_2_Heranca.pdb
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\obj\Debug\net6.0\Level_2_Heranca.csproj.AssemblyReference.cache
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\obj\Debug\net6.0\Level_2_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\obj\Debug\net6.0\Level_2_Heranca.AssemblyInfoInputs.cache
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\obj\Debug\net6.0\Level_2_Heranca.AssemblyInfo.cs
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\obj\Debug\net6.0\Level_2_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\obj\Debug\net6.0\Level_2_Heranca.dll
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\obj\Debug\net6.0\refint\Level_2_Heranca.dll
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\obj\Debug\net6.0\Level_2_Heranca.pdb
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\obj\Debug\net6.0\Level_2_Heranca.genruntimeconfig.cache
+C:\Users\jeanm\OneDrive\Área de Trabalho\CSharp\Level_2_Heranca\Level_2_Heranca\obj\Debug\net6.0\ref\Level_2_Heranca.dll
